@@ -1,0 +1,37 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "mileage": 15000,
+      "owners_count": 1
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "model": "Camry",
+      "mileage": 15000,
+      "owners_count": 1
+    }
+  ],
+  "furniture": [
+    {
+      "id": 1,
+      "name": "Sofa",
+      "manufacturer": "Ikea",
+      "height": 0.85,
+      "width": 2,
+      "length": 2.5
+    }
+  ],
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "quantity": 50,
+      "price": 2.5,
+      "arrival_date": "2025-01-14"
+    }
+  ]
+}
